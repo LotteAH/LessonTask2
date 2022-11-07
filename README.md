@@ -1,1 +1,2 @@
-# LessonTask2
+# My first repo
+This is some text
